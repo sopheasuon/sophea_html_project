@@ -129,3 +129,22 @@ ul li a:hover{
     border-top-right-radius: 40px;
     border-bottom-right-radius: 40px;
 }
+footer{
+    padding: 20px;
+    background:#4b4b4b;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.home-contact a{
+    color: #ffffff;
+    font-size: 30px;
+    height: 30px;   
+}
+.home-contact p{
+    color: #ffffff;
+    margin-top: 20px;
+}
+.home-contact a:hover{
+    color:#1e90ff;
+}
